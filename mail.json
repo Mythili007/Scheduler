@@ -1,0 +1,12 @@
+{
+    "smtp": {
+        "host": "email-smtp.us-east-1.amazonaws.com",
+        "port": 587,
+        "auth": {
+            "user": "indira.mythili@gmail.com",
+            "password": "Spacelog@7792"
+        },
+        "sender_address": "indira.mythili@gmail.com"
+
+    }
+}
